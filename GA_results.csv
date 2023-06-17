@@ -1,0 +1,2 @@
+,image,num_threshold,config,fitness Otsu,thresholds,time
+0,lenna,2,"{'num_generations': 76, 'sol_per_pop': 292, 'parent_selection_type': 'sss', 'K_tournament': 7, 'crossover_type': 'single_point', 'crossover_probability': 0.2, 'mutation_type': 'random', 'mutation_probability': 0.44}",4548048219.95169,[ 92 150],198.02901458740234
